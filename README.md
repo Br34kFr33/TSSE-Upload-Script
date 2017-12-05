@@ -4,6 +4,8 @@ This is a php script that will scan directory for files every x amount of second
 ## Requirements
 * mktorrent
 * cksfv(optional)
+* curl
+* php
 
 ## Setup
 1.  Install mktorrent
